@@ -108,12 +108,12 @@
             </div>
 
  <!----- Tanggal di kerjakan----->
-            <div class="row mb-3">
-             <label for="inputEmail3" class="col-sm-2 col-form-label">Tanggal Di Kerjakan</label>
-              <div class="col-sm-2">
-                    <input type="date" class="form-control">
-                  </div>
-            </div>
+          <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Tanggal Di Kerjakan</label>
+                    <div class="col-sm-2">
+                        <input type="date" name="tgl_dikerjakan" class="form-control">
+                    </div>
+                </div>
 
 <!---------Solusi keluhan---->
             <div class="row mb-3">
